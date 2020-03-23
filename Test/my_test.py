@@ -1,4 +1,4 @@
-from my_script import enlarge
+from App.my_script import enlarge
 
 def test_enlarge():
     result = enlarge(3)
